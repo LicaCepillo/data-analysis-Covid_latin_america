@@ -18,6 +18,5 @@ Data Analysis Projects developed during IBM bootcamp
   
    <p>Covid Data Analysis <a href='https://docs.google.com/spreadsheets/d/1Bkl1yVgihiSWqRob-Z8M0lro-5qyRTFajWM6lJ4vP-w/edit?usp=sharing'>Link</a> </p>
    <p>Video with Short Prsentation <a href='https://www.loom.com/share/37de7d42eb904b1186f9c138a6be8575'>Link</a> </p>
-  >[!VIDEO] (https://www.loom.com/share/37de7d42eb904b1186f9c138a6be8575)
-
+ 
 
